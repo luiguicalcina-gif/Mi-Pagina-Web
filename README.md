@@ -22,13 +22,11 @@
     </style>
 </head>
 <body>
-
     <h1>Luigui Andreé Calcina Batallanos</h1> 
     <img src="/mnt/data/foto.jpeg" alt="Mi foto" width="180">
     <p><strong>Ejecutivo de Ventas</strong></p>
     <p>Arequipa - Perú</p>
     <p>Email: <a href="mailto:calcinaluigui@gmail.com">calcinaluigui@gmail.com</a></p>
-
     <div class="section">
         <h2>Formación Académica</h2>
         <ul>
@@ -36,7 +34,6 @@
             <li><strong>Egresado en Gastronomia</strong> – Instituto del Sur (2026)</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Experiencia Profesional</h2>
         <ul>
@@ -46,7 +43,6 @@
             <li><strong>Ayudante de Cocina</strong> – Restaurante Criollo Ccala (2022 - 2023) <br>Brindé soporte en la preparación de insumos, mise en place y producción diaria. Colaboré con el equipo en mantener la limpieza, organización y buen ritmo de trabajo dentro de la cocina.</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Certificaciones</h2>
         <ul>
@@ -56,7 +52,6 @@
             <li>Curso de Pescados y Mariscos</li>
         </ul>
     </div>
-  
     <div class="section">
         <h2>Proyectos e Intereses</h2>
         <ul>
@@ -66,7 +61,6 @@
             <li>Inversiones y Negocios</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Enlaces</h2>
         <ul>

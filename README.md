@@ -23,7 +23,7 @@
 </head>
 <body>
     <h1>Luigui Andreé Calcina Batallanos</h1> 
-    <img src="/mnt/data/foto.jpeg" alt="Mi foto" width="180">
+    <img src="foto.jpeg" alt="Mi foto" width="180">
     <p><strong>Ejecutivo de Ventas</strong></p>
     <p>Arequipa - Perú</p>
     <p>Email: <a href="mailto:calcinaluigui@gmail.com">calcinaluigui@gmail.com</a></p>

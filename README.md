@@ -70,14 +70,7 @@
     <div class="section">
         <h2>Compañeros de Curso</h2>
         <ul>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li> 
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
-            <li><a href="https://www.linkedin.com/in/luigui-calcina-53849b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
+            <li><a href="https://chaskacandia.github.io/chaskacandiaochoa.github.io/">Chasca Candia Ochoa</a></li> 
         </ul>
     </div>
 

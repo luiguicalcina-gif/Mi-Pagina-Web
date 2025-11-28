@@ -37,10 +37,10 @@
     <div class="section">
         <h2>Experiencia Profesional</h2>
         <ul>
-            <li><strong>Ejecutivo de Ventas</strong> – Financiera Oh (Actualmente) <br>Me encargo de la venta de tarjetas de crédito y préstamos personales, brindando asesoría clara y confiable a los clientes. Gestiono todo el proceso de captación, evaluación y seguimiento, asegurando una experiencia rápida y eficiente.</li>
-            <li><strong>Operario de Producción/Servicio y atencion al cliente</strong> – Popeyes Louisiana Kitchen Inc. (2025) <br>Apoyé en la preparación eficiente de alimentos, el armado de pedidos y la atención directa al cliente. También aseguré el cumplimiento de estándares de calidad, limpieza y tiempos de entrega en un entorno de alta demanda.</li>
-            <li><strong>Cocinero</strong> – Patria 209 (2023 - 2024) <br>Encargado de la preparación de platos, manteniendo altos estándares de sabor, presentación e higiene. Participé en el orden, mise en place y coordinación con el equipo para asegurar un servicio fluido.</li>
-            <li><strong>Ayudante de Cocina</strong> – Restaurante Criollo Ccala (2022 - 2023) <br>Brindé soporte en la preparación de insumos, mise en place y producción diaria. Colaboré con el equipo en mantener la limpieza, organización y buen ritmo de trabajo dentro de la cocina.</li>
+            <li><strong>Ejecutivo de Ventas (Actualmente) - </strong><a href="https://tarjetaoh.pe/">Financiera Oh</a>  <br>Me encargo de la venta de tarjetas de crédito y préstamos personales, brindando asesoría clara y confiable a los clientes. Gestiono todo el proceso de captación, evaluación y seguimiento, asegurando una experiencia rápida y eficiente.</li>
+            <li><strong>Operario de Producción/Servicio y atencion al cliente (2025) - </strong><a href="https://www.popeyes.com.pe/">Popeyes Louisiana Kitchen Inc.</a>  <br>Apoyé en la preparación eficiente de alimentos, el armado de pedidos y la atención directa al cliente. También aseguré el cumplimiento de estándares de calidad, limpieza y tiempos de entrega en un entorno de alta demanda.</li>
+            <li><strong>Cocinero (2023 - 2024) - </strong><a href="https://www.instagram.com/patria209aqp/?hl=es">Patria 209</a>  <br>Encargado de la preparación de platos, manteniendo altos estándares de sabor, presentación e higiene. Participé en el orden, mise en place y coordinación con el equipo para asegurar un servicio fluido.</li>
+            <li><strong>Ayudante de Cocina (2022 - 2023) - </strong>  Restaurante Criollo Ccala  <br>Brindé soporte en la preparación de insumos, mise en place y producción diaria. Colaboré con el equipo en mantener la limpieza, organización y buen ritmo de trabajo dentro de la cocina.</li>
         </ul>
     </div>
     <div class="section">

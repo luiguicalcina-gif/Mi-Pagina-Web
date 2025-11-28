@@ -30,8 +30,8 @@
     <div class="section">
         <h2>Formación Académica</h2>
         <ul>
-            <li><strong>Estudiante de Administracion de Negocios(Cursando)</strong> <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo (Cursando)</li>
-            <li><strong>Egresado de la carrera de Gastronomia (2026)</strong> <a href="https://www.isur.edu.pe/">Instituto del Sur (2026)</li>
+            <li><strong>Estudiante de Administracion de Negocios (Cursando)</strong> <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</li>
+            <li><strong>Egresado de la carrera de Gastronomia (2026)</strong> <a href="https://www.isur.edu.pe/">Instituto del Sur</li>
         </ul>
     </div>
     <div class="section">

@@ -70,10 +70,14 @@
         </ul>
     </div>
     <div class="section">
-        <h2>Compañeros de Curso</h2>
+        <h2>Profesor y Compañeros de Curso</h2>
         <ul>
-            <li><a href="https://chaskacandia.github.io/chaskacandiaochoa.github.io/">Chasca Candia Ochoa</a></li>
+            <li><a href="https://socios.spc.org.pe/ecuadros/">Ernesto Cuadros-Vargas</a></li>
             <li><a href="https://erickquispeluna-boop.github.io/erickluna.github.io/">Erick Quipe Luna</a></li>
+            <li><a href="https://chaskacandia.github.io/chaskacandiaochoa.github.io/">Chasca Candia Ochoa</a></li>
+            <li><a href="https://roaldmacedo-boza.github.io/roaldmacedo.github.io">Macedo Boza Roald</a></li>
+            <li><a href="https://pari-dot.github.io/Mauricio.github.io/">Mauricio Joel Pari Gomez</a></li>
+            <li><a href="https://flaviamicaeladiazzevallos1.github.io/">Flavia Micaela Díaz Zevallos</a></li>
         </ul>
     </div>
 

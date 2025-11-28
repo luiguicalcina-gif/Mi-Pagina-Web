@@ -46,10 +46,10 @@
     <div class="section">
         <h2>Certificaciones</h2>
         <ul>
-            <li>Curso MS Excel Basico - Intermedio</li>
-            <li>Programa de Liderasgo Integral Juvenil</li>
-            <li>Curso de Cocina Criolla</li>
-            <li>Curso de Pescados y Mariscos</li>
+            <li>Curso MS Excel Basico - Intermedio <a href="https://www.isur.edu.pe/extension-profesional/cronograma-cursos/">Extensión Profesional</a></li>
+            <li>Programa de Liderasgo Integral Juvenil <a href="https://liderazgo.ucsp.edu.pe/">Programa de Liderazgo</a></li>
+            <li>Curso de Cocina Criolla <a href="https://www.isur.edu.pe/extension-profesional/cronograma-cursos/">Extensión Profesional</a></li>
+            <li>Curso de Pescados y Mariscos <a href="https://www.isur.edu.pe/extension-profesional/cronograma-cursos/">Extensión Profesional</a></li>
         </ul>
     </div>
     <div class="section">
